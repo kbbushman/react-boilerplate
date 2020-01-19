@@ -1,5 +1,5 @@
 {
-  "name": "react-bolierplate",
+  "name": "react-boilerplate",
   "version": "0.1.0",
   "description": "",
   "main": "index.js",
@@ -9,15 +9,7 @@
   },
   "author": "Kenneth Bushman",
   "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/kbbushman/react-boilerplate.git"
-  },
   "keywords": [],
-  "bugs": {
-    "url": "https://github.com/kbbushman/react-boilerplate/issues"
-  },
-  "homepage": "https://github.com/kbbushman/react-boilerplate#readme",
   "devDependencies": {
     "@babel/cli": "^7.8.3",
     "@babel/core": "^7.8.3",
